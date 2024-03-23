@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+    color: green;
+    font-family: Verdana, Helvetica;
+}
+
+#title{
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+}
+
+#part1{
+    width: 60%;
+}
+
+#part2{
+    width: 40%;
+}
+
+.labelbox{
+    width: 30%;
+}
+
+#labelbox1{
+    padding-left: 100px;
+}
+
+.label{
+    height: 30px;
+}
+
+.input{
+    height: 30px;
+}
+
+.button{
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    color: green;
+    font-family: Verdana, Helvetica;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.label{
+    height: 30px;
+}
+
+.field{
+    height: 30px;
+}
+
+#labelbox{
+    width: 40%
+}
+
+#nouveau{
+    width: 40%;
+}
+
+#liste{
+    width: 60%;
+}
+
+table, thead{
+    border: 1px solid grey;
+}
+
+table{
+    width: 100%;
+}
